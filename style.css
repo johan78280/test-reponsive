@@ -1,0 +1,66 @@
+/*-----------------Base-----------------*/
+/*Global reglages*/
+body{margin: 0px auto;
+    padding: 0px AUTO;
+    color: black;}
+
+
+/*------------------Tailles----------------*/
+/*pixels*/
+.taille1{height: 500px;}
+/*Width */
+.desk1{width: 100%;}
+.desk4{width: 25%;}
+.desk2{width: 50%;}
+/*Textes*/
+.txtmedium{font-size: 1em;}
+.txthard{font-size: 2em;}
+
+
+/*-------------ALigns & Marges----------------*/
+/*Items align*/
+.txtcenter{justify-content: center;}
+
+/*Padding Margins*/
+.paddnav{padding:40px;}
+.margnav{margin: auto;}
+
+
+/*-------------Colors----------------*/
+/*Text color*/
+.textwhite{color: white;}
+
+/*backgrounds colors*/
+.bcred{background-color: crimson;}
+.bcblue{background-color: darkblue;}
+.bcgreen{background-color: green;}
+.bcyellow{background-color:yellow;}
+.bcpink{background-color: pink;}
+.bcpurple{background-color: purple;}
+.bcbrown{background-color: saddlebrown;}
+.bcblack{background-color: black;}
+
+
+
+/*-------------Directions---------------*/
+/*Flex direction */
+.row{flex-direction: row;}
+.column{flex-direction: column;}
+
+/*Wrap*/
+.wrap{flex-wrap: wrap;}
+.nowrap{flex-wrap: nowrap;}
+
+
+/*---------------------Responsive-------------------*/
+/*Media ipad*/
+.desk4ipad{width: 50%;}
+.desk2ipad{width: 100%;}
+/*Media Iphone*/
+.desk4iphone{width: 100%;}
+.desk2iphone{width: 200%;}
+
+/*--------------Displays-------------*/
+/*Display*/
+.container{display: flex;}
+.block{display: block;}
